@@ -1,0 +1,46 @@
+{
+   "info":{
+      "url_png_icon_64x64":"http://santopool.com/wp-content/uploads/2021/01/SANTOPOOL_LOGO_TRANS59x59.png",
+      "url_png_logo":"http://santopool.com/wp-content/uploads/2021/01/SANTOPOOL_LOGO_TRANS59x59.png",
+      "location":"Miami Beach, Florida & Ho Chi Minh City, Vietnam",
+      "social":{
+         "twitter_handle":"OTCSANP",
+         "telegram_handle":"SANTOPOOL",
+         "facebook_handle":"",
+         "youtube_handle":"",
+         "twitch_handle":"",
+         "discord_handle":"",
+         "gitlab_handle":"SANTOPOOL"
+      },
+      "company":{
+         "name":"Santo Mining Corp.",
+         "1680 Michigan Ave":"",
+         "Miami Beach":"Florida",
+         "country":"USA",
+         "company_id":"",
+         "vat_id":"27-0518586"
+      },
+      "about":{
+         "me":"SANTO Blockchain Labs, Corp. (SANTO) operates a website at https://santopool.com and provides cryptocurrency staking service to potential Cardano (ADA) delegators.",
+         "server":"Raspberry Pi Hosted at my Home in London 100MB up/down, solar energy."
+      },
+      "my-pool-ids":{
+         "0":"87b28f81c2f9ea643023a842b27f0805ed21d4d63b7448d94a0ff918"
+      },
+      "when-satured-then-recommend":{
+         "0":"87b28f81c2f9ea643023a842b27f0805ed21d4d63b7448d94a0ff918"
+      },
+      "telegram-admin-handle":{
+         "0":"https://t.me/joinchat/Ri8E5UfBSNrmWwgc"
+      },
+      "adapools_ext":{
+         "prometheus":{
+            "0":{
+               "name":"relay node",
+               "type":"relay",
+               "key":"6246ace7396eab5fa41cb6718837212e"
+            }
+         }
+      }
+   }
+}
